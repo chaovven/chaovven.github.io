@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ====== -->
 
-I received my M.Sc. in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA), supervised by Prof. [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/).
+I received M.Sc. in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA), supervised by Prof. [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/). 
 
 My research interests include reinforcement learning (RL) and multi-agent systems.
 
@@ -19,13 +19,13 @@ My research interests include reinforcement learning (RL) and multi-agent system
 Publications
 ======
 
-* **Chao Wen**, Xinghu Yao, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. In: Proceedings of the AAAI Conference on Artificial Intelligence. (**AAAI 2020**). [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/6223/6078)
-
 * **Chao Wen**, Miao Xu, Zhilin Zhang, Zhenzhe Zheng et al. A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising. ACM International Conference on Web Search and Data Mining. (**WSDM 2022**). [pdf](https://arxiv.org/pdf/2106.06224)
 
-<!-- * **Chao Wen**, Xinghu Yao, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. IEEE Transactions on Neural Networks and Learning Systems. (**TNNLS 2021**). -->
+* **Chao Wen**, Xinghu Yao, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. In: Proceedings of the AAAI Conference on Artificial Intelligence. (**AAAI 2020**). [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/6223/6078)
 
-* Yuhui Wang, Hao He, **Chao Wen**, Xiaoyang Tan. Truly Proximal Policy Optimization. IEEE Transactions on Neural Networks and Learning Systems. (**arXiv:1903.07940**). [pdf](https://arxiv.org/abs/1903.07940)
+* Xinghu Yao, **Chao Wen**, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. IEEE Transactions on Neural Networks and Learning Systems. (**TNNLS 2021**).
+
+* Yuhui Wang, Hao He, **Chao Wen**, Xiaoyang Tan. Truly Proximal Policy Optimization. **arXiv:1903.07940**. [pdf](https://arxiv.org/abs/1903.07940)
 
 
 

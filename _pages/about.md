@@ -33,11 +33,8 @@ Publications
 Experience
 ======
 * 2021.6 - now: Algorithm Engineer at Lazada, Alibaba Group.
-  
 * 2020.7 - 2021.1: Research Intern at Alimama, Alibaba Group.
-
 * 2016.2 - 2016.7: Exchange Student at National Yunlin University of Science and Technology.
-
 
 
 Honors

@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chao Wen's Homepage"
 title_separator          : "-"
-name                     : &name "Chao Wen (文超)"
+name                     : &name "Chao Wen (文 超)"
 description              : &description "personal description"
 url                      : https://chaovven.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chao Wen (文超)"
+  name             : "Chao Wen (文 超)"
   avatar           : "profile.png"
   bio              : ""
   location         : "Beijing, China"

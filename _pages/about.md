@@ -19,6 +19,8 @@ My research interests include reinforcement learning (RL) and multi-agent system
 Publications
 ======
 
+<!-- Find more on my [Google Scholar](https://scholar.google.com/citations?user=XRGd6lAAAAAJ). -->
+
 * **Chao Wen**, Miao Xu, Zhilin Zhang, Zhenzhe Zheng et al. A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising. ACM International Conference on Web Search and Data Mining. (**WSDM 2022**). [pdf](https://arxiv.org/pdf/2106.06224)
 
 * **Chao Wen**, Xinghu Yao, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. In: Proceedings of the AAAI Conference on Artificial Intelligence. (**AAAI 2020**). [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/6223/6078)
@@ -28,16 +30,22 @@ Publications
 * Yuhui Wang, Hao He, **Chao Wen**, Xiaoyang Tan. Truly Proximal Policy Optimization. **arXiv:1903.07940**. [pdf](https://arxiv.org/abs/1903.07940)
 
 
-
-<!-- Getting started
+Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* 2021.6 - now: Algorithm Engineer at Lazada, Alibaba Group.
+  
+* 2020.7 - 2021.1: Research Intern at Alimama, Alibaba Group.
 
+* 2016.2 - 2016.7: Exchange Student at National Yunlin University of Science and Technology.
+
+
+
+Honors
+======
+* National Scholarship for Graduate Students, 2020
+* National Scholarship for Undergraduate Students, 2016
+
+<!-- 
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 

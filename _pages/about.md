@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 <!-- ====== -->
+My name is Chao Wen (文 超). I am currently a algorithm engineer at Lazada, Alibaba Group.
 
-I received M.Sc. in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA), supervised by Prof. [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/).
+I received M.Sc. in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA). My advisor was Prof. [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/). From July 2020 to February 2021, I was a research intern at Alimama, Alibaba Group, supervised by Dr. [Zhenzhe Zheng](https://zhengzhenzhe220.github.io/index.html).
 
-My research interests include reinforcement learning (RL) and multi-agent systems.
+
+My research interests include reinforcement learning (RL) and multi-agent systems. 
 
 
 
@@ -21,26 +23,30 @@ Publications
 
 <!-- Find more on my [Google Scholar](https://scholar.google.com/citations?user=XRGd6lAAAAAJ). -->
 
-* **Chao Wen**, Miao Xu, Zhilin Zhang, Zhenzhe Zheng et al. A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising. ACM International Conference on Web Search and Data Mining. (**WSDM 2022**). [pdf](https://dl.acm.org/doi/pdf/10.1145/3488560.3498373),[code](https://github.com/chaovven/maab), [poster](../files/wsdm22_poster.pdf)
+* **Chao Wen**, Miao Xu, Zhilin Zhang, Zhenzhe Zheng et al. A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising. ACM International Conference on Web Search and Data Mining. (**WSDM 2022**). 
+  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3488560.3498373), [code](https://github.com/chaovven/maab), [poster](../files/wsdm22_poster.pdf)]
 
-* **Chao Wen**, Xinghu Yao, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. In: Proceedings of the AAAI Conference on Artificial Intelligence. (**AAAI 2020**). [pdf](./../files/aaai22.pdf), [code](https://github.com/chaovven/SMIX), [video](https://youtu.be/mY13RDVy-qc)
+* **Chao Wen**, Xinghu Yao, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. In: Proceedings of the AAAI Conference on Artificial Intelligence. (**AAAI 2020**). 
+  [[pdf](./../files/aaai22.pdf)], [[code](https://github.com/chaovven/SMIX)], [[video](https://youtu.be/mY13RDVy-qc)]
 
-* Xinghu Yao, **Chao Wen**, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. IEEE Transactions on Neural Networks and Learning Systems. (**TNNLS 2021**). [pdf](https://ieeexplore.ieee.org/document/9466372)
+* Xinghu Yao, **Chao Wen**, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. IEEE Transactions on Neural Networks and Learning Systems. (**TNNLS 2021**). 
+  [[pdf](https://ieeexplore.ieee.org/document/9466372)]
 
-* Yuhui Wang, Hao He, **Chao Wen**, Xiaoyang Tan. Truly Proximal Policy Optimization. **arXiv:1903.07940**. [pdf](https://arxiv.org/abs/1903.07940), [code](https://github.com/wangyuhuix/TrulyPPO)
+* Yuhui Wang, Hao He, **Chao Wen**, Xiaoyang Tan. Truly Proximal Policy Optimization. **arXiv:1903.07940**. 
+  [[pdf](https://arxiv.org/abs/1903.07940), [code](https://github.com/wangyuhuix/TrulyPPO)]
 
 
 Experience
 ======
-* 2021.6 - now: Algorithm Engineer at Lazada, Alibaba Group.
-* 2020.7 - 2021.1: Research Intern at Alimama, Alibaba Group.
-* 2016.2 - 2016.7: Exchange Student at National Yunlin University of Science and Technology.
+* 2021.06 - Now: Algorithm Engineer at Lazada, Alibaba Group.
+* 2020.07 - 2021.01: Research Intern at Alimama, Alibaba Group.
+* 2016.02 - 2016.07: Exchange Student at National Yunlin University of Science and Technology.
 
 
-Honors
+Selected Honors
 ======
-* National Scholarship for Graduate Students, 2020
-* National Scholarship for Undergraduate Students, 2016
+* China National Scholarship for Graduate Students, 2020
+* China National Scholarship for Undergraduate Students, 2016
 
 <!-- 
 Site-wide configuration

@@ -23,16 +23,20 @@ Publications
 
 <!-- Find more on my [Google Scholar](https://scholar.google.com/citations?user=XRGd6lAAAAAJ). -->
 
-* **Chao Wen**, Miao Xu, Zhilin Zhang, Zhenzhe Zheng et al. A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising. ACM International Conference on Web Search and Data Mining. (**WSDM 2022**). 
+* **Chao Wen**, Miao Xu, Zhilin Zhang, Zhenzhe Zheng et al. A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising. ACM International Conference on Web Search and Data Mining (**WSDM 2022**). 
+
   [[pdf](https://dl.acm.org/doi/pdf/10.1145/3488560.3498373), [code](https://github.com/chaovven/maab), [poster](../files/wsdm22_poster.pdf)]
 
-* **Chao Wen**, Xinghu Yao, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. In: Proceedings of the AAAI Conference on Artificial Intelligence. (**AAAI 2020**). 
-  [[pdf](./../files/aaai22.pdf)], [[code](https://github.com/chaovven/SMIX)], [[video](https://youtu.be/mY13RDVy-qc)]
+* **Chao Wen**, Xinghu Yao, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. In: Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2020**). 
 
-* Xinghu Yao, **Chao Wen**, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. IEEE Transactions on Neural Networks and Learning Systems. (**TNNLS 2021**). 
+  [[pdf](./../files/aaai22.pdf), [code](https://github.com/chaovven/SMIX), [video](https://youtu.be/mY13RDVy-qc)]
+
+* Xinghu Yao, **Chao Wen**, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS 2021**). 
+
   [[pdf](https://ieeexplore.ieee.org/document/9466372)]
 
 * Yuhui Wang, Hao He, **Chao Wen**, Xiaoyang Tan. Truly Proximal Policy Optimization. **arXiv:1903.07940**. 
+
   [[pdf](https://arxiv.org/abs/1903.07940), [code](https://github.com/wangyuhuix/TrulyPPO)]
 
 

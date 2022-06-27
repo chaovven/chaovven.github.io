@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ====== -->
-My name is Chao Wen (文 超). I received M.Sc. in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA). My advisor was Prof. [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/). From July 2020 to February 2021, I was a research intern at Alimama, Alibaba Group, supervised by Dr. [Zhenzhe Zheng](https://zhengzhenzhe220.github.io/index.html). I am currently an algorithm engineer at Lazada, Alibaba Group.
+My name is Chao Wen (文 超). I will join [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/) as a PhD student, supervised by [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I received M.Sc. in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA). My advisor was Prof. [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/). From July 2020 to February 2021, I was a research intern at Alimama, Alibaba Group, supervised by Dr. [Zhenzhe Zheng](https://zhengzhenzhe220.github.io/index.html). I am currently an algorithm engineer at Lazada, Alibaba Group.
 
 
 

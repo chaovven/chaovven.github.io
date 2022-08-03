@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 <!-- ====== -->
-My name is Chao Wen (文 超). I will join [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/) as a PhD student, supervised by [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I received M.Sc. in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA). My advisor was Prof. [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/). From July 2020 to February 2021, I was a research intern at Alimama, Alibaba Group, supervised by Dr. [Zhenzhe Zheng](https://zhengzhenzhe220.github.io/index.html). I am currently an algorithm engineer at Lazada, Alibaba Group.
+My name is Chao Wen (文 超). I'm currently a PhD student at [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/), supervised by [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I received M.Sc. in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics, China. My advisor was Prof. [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/). After receiving my M.Sc, I worked as an algorithm engineer at Lazada, Alibaba Group from June 2021 to July 2022. 
 
-
-
-My research interests include reinforcement learning (RL) and multi-agent systems. 
+My research interests include reinforcement learning (RL) and multi-agent systems and AI for programming education. 
 
 
 
@@ -37,7 +35,7 @@ Publications
 
 Experience
 ======
-* 2021.06 - Now: Algorithm Engineer at Lazada, Alibaba Group.
+* 2021.06 - 2022.07: Algorithm Engineer at Lazada, Alibaba Group.
 * 2020.07 - 2021.01: Research Intern at Alimama, Alibaba Group.
 * 2016.02 - 2016.07: Exchange Student at National Yunlin University of Science and Technology.
 

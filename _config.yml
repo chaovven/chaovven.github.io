@@ -83,11 +83,11 @@ author:
   name             : "Chao Wen (文 超)"
   avatar           : "profile.png"
   bio              : ""
-  location         : "Beijing, China"
+  location         : "Saarbrücken, Germany"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=XRGd6lAAAAAJ&hl=zh-CN"
-  email            : "chaowen@nuaa.edu.cn"
+  email            : "chaowen@mpi-sws.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

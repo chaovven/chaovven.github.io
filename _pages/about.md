@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 <!-- ====== -->
-My name is Chao Wen (文 超). 
-
-I'm a PhD student at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/). I am advised by [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) in the [Machine Teaching](https://machineteaching.mpi-sws.org/) Group.
+My name is Chao Wen. I'm a PhD student at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/). I am advised by [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) in the [Machine Teaching](https://machineteaching.mpi-sws.org/) Group.
 
 
 I received M.Sc. in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics, China, advised by Prof. [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/). Then I worked as an algorithm engineer at Lazada, Alibaba Group from June 2021 to July 2022. 

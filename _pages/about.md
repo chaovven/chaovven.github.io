@@ -11,10 +11,7 @@ redirect_from:
 <!-- ====== -->
 My name is Chao Wen. I'm a PhD student at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/). I am advised by [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) in the [Machine Teaching](https://machineteaching.mpi-sws.org/) Group.
 
-
-I received M.Sc. in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics, China, advised by Prof. [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/). Then I worked as an algorithm engineer at Lazada, Alibaba Group from June 2021 to July 2022. 
-
-My research interests include reinforcement learning (RL) and AI for programming education. 
+My research interests include AI for programming education, reinforcement learning, and large language models.
 
 
 
@@ -23,16 +20,19 @@ Publications
 
 <!-- Find more on my [Google Scholar](https://scholar.google.com/citations?user=XRGd6lAAAAAJ). -->
 
-* **Chao Wen**, Miao Xu, Zhilin Zhang, Zhenzhe Zheng et al. A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising. ACM International Conference on Web Search and Data Mining (**WSDM 2022**). 
+
+* **Chao Wen**, Jacqueline Staub, Adish Singla. Program Synthesis Benchmark for Visual Programming in XLogoOnline Environment. arXiv 2406.11334, 2024. [[pdf](https://arxiv.org/abs/2406.11334)]
+
+* **Chao Wen**, Ahana Ghosh, Jacqueline Staub, Adish Singla. Task Synthesis for Elementary Visual Programming in XLogoOnline Environment. In Proceedings of International Conference on Artificial Intelligence in Education (AIED) Late-Breaking Results Track, 2024. 
+  [[pdf](https://arxiv.org/pdf/2405.02173), [code](https://github.com/machine-teaching-group/aied2024-xlogo-tasksyn)]
+
+* **Chao Wen**, Miao Xu, Zhilin Zhang, Zhenzhe Zheng et al. A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising. ACM International Conference on Web Search and Data Mining (WSDM), 2022. 
   [[pdf](https://dl.acm.org/doi/pdf/10.1145/3488560.3498373), [code](https://github.com/chaovven/maab), [poster](../files/wsdm22_poster.pdf)]
 
-* **Chao Wen**, Xinghu Yao, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. In: Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI 2020**). 
-  [[pdf](./../files/aaai22.pdf), [code](https://github.com/chaovven/SMIX), [video](https://youtu.be/mY13RDVy-qc)]
+* **Chao Wen**, Xinghu Yao, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020. 
+  [[pdf](./../files/aaai22.pdf), [code](https://github.com/chaovven/SMIX)]
 
-* Xinghu Yao, **Chao Wen**, Yuhui Wang, Xiaoyang Tan. SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS 2021**). 
-  [[pdf](https://ieeexplore.ieee.org/document/9466372)]
-
-* Yuhui Wang, Hao He, **Chao Wen**, Xiaoyang Tan. Truly Proximal Policy Optimization. **arXiv:1903.07940**. 
+* Yuhui Wang, Hao He, **Chao Wen**, Xiaoyang Tan. Truly Proximal Policy Optimization. arXiv:1903.07940, 2019.
   [[pdf](https://arxiv.org/abs/1903.07940), [code](https://github.com/wangyuhuix/TrulyPPO)]
 
 
@@ -44,8 +44,8 @@ Experience
 
 Selected Honors
 ======
-* China National Scholarship for Graduate Students, 2020
-* China National Scholarship for Undergraduate Students, 2016
+* National Scholarship for Graduate Students, China, 2020
+* National Scholarship for Undergraduate Students, China, 2016
 
 <!-- 
 Site-wide configuration

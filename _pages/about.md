@@ -20,7 +20,32 @@ Publications
 
 <!-- Find more on my [Google Scholar](https://scholar.google.com/citations?user=XRGd6lAAAAAJ). -->
 
+- [Program Synthesis Benchmark for Visual Programming in XLogoOnline Environment](https://arxiv.org/pdf/2406.11334)  
+  **Chao Wen**, Jacqueline Staub, Adish Singla  
+  arXiv 2406.11334, 2024  
 
+- [Task Synthesis for Elementary Visual Programming in XLogoOnline Environment](https://arxiv.org/pdf/2405.02173)  
+  **Chao Wen**, Ahana Ghosh, Jacqueline Staub, Adish Singla  
+  In Proceedings of International Conference on Artificial Intelligence in Education (AIED) Late-Breaking Results Track, 2024  
+  [[code](https://github.com/machine-teaching-group/aied2024-xlogo-tasksyn)]
+
+- [A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising](https://arxiv.org/pdf/2106.06224)  
+  **Chao Wen**, Miao Xu, Zhilin Zhang, Zhenzhe Zheng et al.  
+  ACM International Conference on Web Search and Data Mining (WSDM), 2022  
+  [[code](https://github.com/chaovven/maab), [poster](../files/wsdm22_poster.pdf)]
+
+- [SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning](./../files/aaai22.pdf)  
+  **Chao Wen**, Xinghu Yao, Yuhui Wang, Xiaoyang Tan  
+  In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020  
+  [[code](https://github.com/chaovven/SMIX)]
+
+- [Truly Proximal Policy Optimization](https://arxiv.org/abs/1903.07940)  
+  Yuhui Wang, Hao He, **Chao Wen**, Xiaoyang Tan  
+  arXiv:1903.07940, 2019  
+  [[code](https://github.com/wangyuhuix/TrulyPPO)]
+
+
+<!-- 
 * **Chao Wen**, Jacqueline Staub, Adish Singla. Program Synthesis Benchmark for Visual Programming in XLogoOnline Environment. arXiv 2406.11334, 2024. [[pdf](https://arxiv.org/abs/2406.11334)]
 
 * **Chao Wen**, Ahana Ghosh, Jacqueline Staub, Adish Singla. Task Synthesis for Elementary Visual Programming in XLogoOnline Environment. In Proceedings of International Conference on Artificial Intelligence in Education (AIED) Late-Breaking Results Track, 2024. 
@@ -33,7 +58,7 @@ Publications
   [[pdf](./../files/aaai22.pdf), [code](https://github.com/chaovven/SMIX)]
 
 * Yuhui Wang, Hao He, **Chao Wen**, Xiaoyang Tan. Truly Proximal Policy Optimization. arXiv:1903.07940, 2019.
-  [[pdf](https://arxiv.org/abs/1903.07940), [code](https://github.com/wangyuhuix/TrulyPPO)]
+  [[pdf](https://arxiv.org/abs/1903.07940), [code](https://github.com/wangyuhuix/TrulyPPO)] -->
 
 
 Experience

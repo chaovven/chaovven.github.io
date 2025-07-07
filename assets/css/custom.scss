@@ -1,0 +1,34 @@
+// Custom styles for al-folio
+
+// Adjust heading sizes
+h1 {
+  font-size: 1.8rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 1.3rem;
+  margin-bottom: 0.8rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin-top: 1.1rem;
+  margin-bottom: 0.6rem;
+}
+
+// For project pages
+.post-title {
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+// Adjust section headers on the home page
+.section-heading {
+  h1, h2, h3 {
+    margin-top: 0;
+  }
+}

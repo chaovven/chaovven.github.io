@@ -1,18 +1,13 @@
-# github_users:
-#   - chaovven
-#   # - alshedivat
+github_users:
+  - chaovven
 
-# repo_description_lines_max: 2
+repo_description_lines_max: 2
 
-# github_repos:
-#   - chaovven/al-folio
-#   - jekyll/jekyll
-#   - twbs/bootstrap
-#   - jquery/jquery
-#   - FortAwesome/Font-Awesome
-#   - mathjax/MathJax
-#   - jpswalsh/academicons
+github_repos:
+  - chaovven/al-folio
+  - chaovven/maab
+
 # Empty repositories file
-github_users: []
-repo_description_lines_max: 0
-github_repos: []
+# github_users: []
+# repo_description_lines_max: 0
+# github_repos: []

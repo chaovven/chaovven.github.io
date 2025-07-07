@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: chao_profile.jpeg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://chaovven.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -59,9 +59,9 @@ bib_search: true
 max_width: 930px
 
 # Hide projects and repositories
-show_projects_navbar: false
-show_repositories: false
-display_projects: false
+show_projects_navbar: true
+show_repositories: true
+display_projects: true
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -157,7 +157,8 @@ collections:
       layout: post
     output: true
   projects:
-    output: false
+    output: true
+    permalink: /projects/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

@@ -30,11 +30,14 @@ My name is Chao Wen. I'm a PhD student at the [Max Planck Institute for Software
 
 
 My research interests include:
-- *Program Synthesis:* Developing and benchmarking program synthesis methods powered by large models. This includes exploring neural, symbolic, and agentic techniques to automatically generate programs from specifications, with a focus on applications in educational visual programming domains.
 
-- *Generative AI for Content Creation:* Developing interactive AI systems that enhance the Human-AI co-creation process. This includes exploring agentic systems to improve productivity and creativity across diverse content generation tasks, such as slide deck creation and slide layout design.
+- *Generative AI for Creativity*: Understanding and improving creativity in generative models. This includes (1) making generative models more creative, and (2) designing human–AI collaboration methods where generative models enhances human creativity.
 
-I am also more broadly interested in large models, reinforcement learning (RL), and multi-agent systems, and I am always open to exploring new research directions and applications.
+- *Generative AI for Content Creation:* Developing interactive AI systems that enhance the Human-AI co-creation process. This includes exploring agentic systems to improve creativity across diverse content generation tasks.
+
+
+
+I am also more broadly interested in program synthesis, large models, reinforcement learning (RL), and multi-agent systems, and I am always open to exploring new research directions and applications.
 
 In my free time, I enjoy a variety of sports and outdoor activities. I'm particularly fond of swimming, football, tennis, table tennis, and hiking. When I'm not in the lab, you might find me exploring hiking trails around Saarbrücken:)
 

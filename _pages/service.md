@@ -18,11 +18,14 @@ nav_order: 6
 ### Program Committee Member
 - ISSEP 2025
 - ACM SAC 2025
+- ACM SAC 2026
 
 ### Reviewer
+- ICLR 2026
 - NeurIPS 2025
 - ISSEP 2025
 - ACM SAC 2025
+- ACM SAC 2026
 
 ---
 

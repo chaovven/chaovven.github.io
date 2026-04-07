@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A collection of my research projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-service",
           title: "service",
           description: "",
@@ -60,11 +53,19 @@ ninja.data = [{
             },},{id: "news-one-paper-is-accepted-by-acl-2025-check-it-out-program-synthesis-benchmark-for-visual-programming-in-xlogoonline-environment",
           title: 'One paper is accepted by ACL 2025! Check it out: Program Synthesis Benchmark...',
           description: "",
+          section: "News",},{id: "news-our-paper-is-accepted-to-acl-2026-findings-to-appear-turtleai-benchmarking-multimodal-models-for-visual-programming-in-turtle-graphics",
+          title: 'Our paper is accepted to ACL 2026 Findings (to appear): TURTLEAI: Benchmarking Multimodal...',
+          description: "",
           section: "News",},{id: "projects-auto-bidding-in-e-commerce-advertising",
           title: 'Auto-bidding in E-commerce Advertising',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2021_project_autobidding/";
+            },},{id: "projects-benchmarking-visual-programming-in-xlogoonline",
+          title: 'Benchmarking Visual Programming in XLogoOnline',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024_project_xlogo_benchmark/";
             },},{
         id: 'social-email',
         title: 'email',

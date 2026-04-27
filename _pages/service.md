@@ -21,11 +21,12 @@ nav_order: 6
 - ACM SAC 2026
 
 ### Reviewer
+- ACL-ARR 2026
 - ICLR 2026
 - NeurIPS 2025
 - ISSEP 2025
-- ACM SAC 2025
-- ACM SAC 2026
+- ACM SAC 2025, 2026
+- EDM 2026
 
 ---
 

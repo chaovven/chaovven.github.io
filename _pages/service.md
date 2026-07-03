@@ -17,16 +17,26 @@ nav_order: 6
 
 ### Program Committee Member
 - ISSEP 2025
-- ACM SAC 2025
-- ACM SAC 2026
+- ACM SAC 2025, 2026
 
 ### Reviewer
-- ACL-ARR 2026
+- ACL-ARR Jan 2026, ACL-ARR May 2026
+- HCOMP 2026
+- ICML Workshop 2026 
+- EDM 2026
 - ICLR 2026
 - NeurIPS 2025
 - ISSEP 2025
 - ACM SAC 2025, 2026
-- EDM 2026
+
+---
+
+## Teaching
+
+- [Seminar Course] Generative AI for Creativity @ Saarland University, Summer Semester 2026
+- [Seminar Course] Generative AI for Education @ Saarland University, Winter Semester 2025
+
+
 
 ---
 

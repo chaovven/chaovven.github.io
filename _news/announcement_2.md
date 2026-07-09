@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper is accepted to ACL 2026 Findings (to appear): TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics
+Our paper is accepted to ACL 2026 Findings: [TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics](https://arxiv.org/abs/2606.03626)
